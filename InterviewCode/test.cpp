@@ -2,8 +2,8 @@
 
 using namespace std;
 
-int main()
-{
-	cout << "This is Interview Code test" << endl;
-	return 0;
-}
+//int main()
+//{
+//	cout << "This is Interview Code test" << endl;
+//	return 0;
+//}
