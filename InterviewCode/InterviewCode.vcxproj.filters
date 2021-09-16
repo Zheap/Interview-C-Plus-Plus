@@ -21,5 +21,17 @@
     <ClCompile Include="单调栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="递归反转单链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="滑动拼图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NSum问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="全局变量Test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

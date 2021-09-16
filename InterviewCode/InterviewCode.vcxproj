@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="NSum问题.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="全局变量Test.cpp" />
     <ClCompile Include="单调栈.cpp" />
+    <ClCompile Include="滑动拼图.cpp" />
     <ClCompile Include="递归反转单链表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

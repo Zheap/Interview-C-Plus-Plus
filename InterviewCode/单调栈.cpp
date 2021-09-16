@@ -36,13 +36,13 @@ vector<int> warmer(vector<int>& nums)
 }
 
 
-
-int main()
-{
-	vector<int> nums = { 73, 74, 75, 71, 69, 72, 76, 73 };
-	vector<int> ans = warmer(nums);
-	for (auto i : ans) {
-		cout << i << endl;
-	}
-	return 0;
-}
+//
+//int main()
+//{
+//	vector<int> nums = { 73, 74, 75, 71, 69, 72, 76, 73 };
+//	vector<int> ans = warmer(nums);
+//	for (auto i : ans) {
+//		cout << i << endl;
+//	}
+//	return 0;
+//}

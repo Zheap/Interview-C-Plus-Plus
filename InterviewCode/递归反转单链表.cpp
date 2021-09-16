@@ -31,11 +31,11 @@ ListNode* reverse(ListNode* head, int n)
 
 //递归反转链表中[m,n]部分，索引从1开始
 
-ListNode* splitNode = nullptr;
+ListNode* splitNode1 = nullptr;
 ListNode* reverseN(ListNode* head, int n)
 {
 	if (n == 1) {
-		splitNode = head->next;
+		splitNode1 = head->next;
 		return head;
 	}
 	ListNode* last = reverseN(head->next, n - 1);
